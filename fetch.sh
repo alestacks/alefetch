@@ -36,6 +36,6 @@ printf "%b\n" \
 "$(printf "${CYAN}${BOLD}%-10s${RESET} %s" "Shell:" "$SHELL")" \
 "$(printf "${CYAN}${BOLD}%-10s${RESET} %s" "Memory:" "$MEM")" \
 "$(printf "${CYAN}${BOLD}%-10s${RESET} %s" "CPU:" "$CPU")" \
-"$(printf "${CYAN}${BOLD}%-10s${RESET} %s" "DATE:" "$DATE")" \
+"$(printf "${CYAN}${BOLD}%-10s${RESET} %s" "Date:" "$DATE")" \
 ""
 
